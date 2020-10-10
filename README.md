@@ -34,7 +34,7 @@ Screenshot:
 </h2>
 <h2>
 Repository URL:
-<a href="https://github.com/utake6d6/@@@@@@@/"</a>https://github.com/utake6d6/@@@@@@/</a>
+<a href="https://github.com/utake6d6/3-password-generator"</a>https://github.com/utake6d6/3-password-generator</a>
 </h2>
 <h2>
 Website URL:
