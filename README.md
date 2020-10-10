@@ -34,10 +34,10 @@ Screenshot:
 </h2>
 <h2>
 Repository URL:
-<a href="https://github.com/utake6d6/@@@@@@/"</a>https://github.com/utake6d6/@@@@@@/</a>
+<a href="https://github.com/utake6d6/@@@@@@@/"</a>https://github.com/utake6d6/@@@@@@/</a>
 </h2>
 <h2>
 Website URL:
-<a href="https://utake6d6.github.io/@@@@@@/"</a>https://utake6d6.github.io/@@@@@@/</a>
+<a href="https://utake6d6.github.io/@@@@@@@/"</a>https://utake6d6.github.io/@@@@@@/</a>
 </h2>
 
