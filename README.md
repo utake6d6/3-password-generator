@@ -1,11 +1,12 @@
-# 3rd challenge-password-generator
-
+<h1>3rd challenge-password-generator
+</h1>
 Create an application that an employee can use to generate a random password
-
+<p>
 JavaScript Challenge: Password Generator
-
-
-## Details
+</p>
+<h2>
+Details
+</h2>
 <p>
 AS AN employee with access to sensitive data
 I WANT to randomly generate a password that meets certain criteria
@@ -28,12 +29,14 @@ THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 </p>
-
-
-
-Screenshot: ![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
-
-
-Repository URL: https://github.com/utake6d6/3-password-generator
-
-Website URL: https://utake6d6.github.io/3-password-generator/
+<h2>
+Screenshot:
+</h2>
+<h2>
+Repository URL:
+<a href="https://github.com/utake6d6/3-password-generator</a>https://github.com/utake6d6/3-password-generator</a>
+</h2>
+<h2>
+Website URL:
+<a href="https://utake6d6.github.io/3-password-generator/"</a>https://utake6d6.github.io/3-password-generator/</a>
+</h2>
