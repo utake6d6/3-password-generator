@@ -30,7 +30,7 @@ WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 </p>
 <h2>
-Screenshot:
+Screenshot: ![picture](https://github.com/utake6d6/3-password-generator/blob/master/calcpic.png)
 </h2>
 <h2>
 Repository URL:
