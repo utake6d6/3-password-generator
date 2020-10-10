@@ -29,7 +29,7 @@ Create an application that an employee can use to generate a random password
 **THEN** the password is either displayed in an alert or written to the page
 
 
-**Screenshot:** ![picture](https://github.com/utake6d6/3-password-generator/blob/master/calcpic.png)
+**Screenshot:** ![picture](https://github.com/utake6d6/3-password-generator/blob/master/Develop/calcpic.png)
 
 **Repository URL:** https://github.com/utake6d6/3-password-generator
 
