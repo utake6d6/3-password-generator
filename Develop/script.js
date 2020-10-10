@@ -95,8 +95,72 @@ if (charLength >= 8 && charLength <= 128) {
     genLowerCase === true &&
     genUpperCase === true
   ) {
-
+    for (i = 0; i < charLength; i++) {
+      let character = Math.floor(Math.random() * d.length);
+      newPassword += d.charAt(character, character + 1);
     }
+  } else if (
+    genSymbols === true &&
+    genNumbers === true &&
+    genLowerCase === false &&
+    genUpperCase === false
+  ) {
+    for (i = 0; i < charLength; i++) {
+      let character = Math.floor(Math.random() *e.length);
+      newPassword += e.charAt(character, character + 1);
+    }
+  } else if (
+    genSymbols === true &&
+    genNumbers === false &&
+    genLowerCase === true &&
+    genUpperCase === false &&
+  ) {
+    for (i = 0; i < charLength; i++) {
+      let character = Math.floor(Math.random() * f.length);
+      newPassword += f.charAt(character, character +1);
+    }
+  } else if (
+    genSymbols === true &&
+    genNumbers === false &&
+    genLowerCase === false &&
+    genUpperCase === true
+  ) {
+    for (i= 0; i < charLength; i++) {
+      let character = Math.floor(Math.random() * g.length);
+      newPassword += g.charAt(character, character +1);
+    }  
+  } else if (
+  genSymbols === false &&
+    genNumbers === true &&
+    genLowerCase === true &&
+    genUpperCase === false
+  ) {
+    for (i = 0; i < charLength; i++) {
+      let character = Math.floor(Math.random() * h.length);
+    }
+  } else if (
+    genSymbols === false &&
+    genNumbers === true &&
+    genLowerCase === false &&
+    genUpperCase === true
+  ) {
+    for (i = 0; i < charLength; i++) {
+      let character = Math.floor(Math.random() *j.length);
+      newPassword += j.charAt(character, character +1);
+    }
+  } else if (
+    genSymbols === false &&
+    genNumbers === false &&
+    genLowerCase === true &&
+    genUpperCase === true
+  ) {
+    for (i = 0; i < charLength; i++) {
+      let character = Math.floor(Math.random() * k.length);
+      newPassword += k.charAt(character, character +1);
+    }
+  
+
+
 
 
 
