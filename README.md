@@ -33,4 +33,4 @@ Create an application that an employee can use to generate a random password
 
 **Website URL:** https://utake6d6.github.io/3-password-generator/
 
-**Screenshot:** ![picture](https://github.com/utake6d6/3-password-generator/blob/master/Develop/screenshot/calcpic.png)
+**Screenshot:** ![picture](https://github.com/utake6d6/3-password-generator/blob/master/calcpic.png)
