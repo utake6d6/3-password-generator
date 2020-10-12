@@ -5,24 +5,17 @@ var generateBtn = document.querySelector("#generate");
 
 //create a function for clicking on the button
 generateBtn.addEventListener("click", function () {
-  //prompt to obtain the requested char length
-  var charLength = prompt(
-    "How many characters would you like your new password to be? Please pick a number between 8 and 128."
-  );
+  var charLength = 0;
 
-  //create a warning for 'if prompt' about inputing numbers being < or > set char range
-  if (charLength === "" || charLength <= 7 || charLength >= 129) {
-    for (x = 0; x < 3; x++) {
-      alert("Please only enter a number that's between 8 and 128.");
-      var charLength = prompt(
-        "How many characters would you like your new password to be? \nPlease pick a number between 8 and 128."
-      );
-    }
+  while (charLength <= 7 || charLength >= 129) {
+    charLength = prompt(
+      "How many characters would you like your new password to be? \nPlease pick a number between 8 and 128."
+    );
   }
 
   //begin program if a character range is choosen, range must be between 8 and 128
   if (charLength >= 8 && charLength <= 128) {
-    //create variables for password generater267
+    //create variables for password generater
     let symbols = "!'#$%&()*+-./;:<>=?@[]{}~^";
     let numbers = "0123456789";
     let lowerCase = "abcdefghijklmnopqrstuvwxyz";
